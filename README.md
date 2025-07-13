@@ -1,0 +1,2 @@
+# PRODIGY_WD_02
+This task is a "STOPWATCH WEB APPLICATION". 
